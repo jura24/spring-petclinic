@@ -1,8 +1,0 @@
-jobs:  
-- deployment: VMDeploy
-  displayName: web
-  environment:
-    name:  MY-PC
-    resourceType: VirtualMachine
-    tags: web1
-  strategy:
